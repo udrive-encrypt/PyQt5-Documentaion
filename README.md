@@ -1,2 +1,2 @@
 # PyQt5-Widget Documentation
-Here we will add codes and their explaination of each widget in PyQt5
+Here you will get codes and their explaination of each widget in PyQt5
